@@ -30,7 +30,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 3rem auto 4rem auto;
+    margin: 4rem auto 4rem auto;
     text-align: center;
     .text_header {
         & h2 {
